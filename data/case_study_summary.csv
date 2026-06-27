@@ -1,0 +1,11 @@
+item,value
+Paper title,Pallet Loading Optimization Considering Storage Time and Relative Humidity
+Application context,Warehouse and supply chain pallet loading
+Industry partner context,DHL Supply Chain real-world instances
+Problem type,3D uniform pallet loading problem
+Solution approach,Two-phase heuristic algorithm and mathematical model
+Number of real-life datasets,52
+Performance measure 1,Pallet volume utilization
+Performance measure 2,Pallet stability measured by load height
+Key operational factors,"Relative humidity, storage time, interlock stacking, box dimensions, allowable height, allowable weight"
+Key finding,Dynamic compression strength decreases as humidity and storage time increase

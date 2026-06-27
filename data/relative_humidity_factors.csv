@@ -1,0 +1,7 @@
+relative_humidity_percent_range,FH_relative_humidity_factor
+0-45,1.1
+45-55,1.0
+55-65,0.9
+65-75,0.8
+75-85,0.7
+85-100,0.5

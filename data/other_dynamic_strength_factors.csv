@@ -1,0 +1,8 @@
+factor_type,factor_symbol,factor_value
+Pallet surface gapped,FG,0.92
+Pallet surface not gapped,FG,1.0
+Interlock yes,FI,0.6
+Interlock no,FI,1.0
+1st shortest dimension perpendicular to base,FO,1.0
+2nd shortest dimension perpendicular to base,FO,0.9
+Longest dimension perpendicular to base,FO,0.8
